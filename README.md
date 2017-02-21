@@ -1,5 +1,6 @@
 # brand-store-doc
-Initial layout and content for snap branded stores documentation
+
+Initial layout and content for the snap brand store documentation.
 
 ## Build
 
@@ -12,6 +13,6 @@ And run it at the root of the project:
     $ cd brand-store-doc
     $ documentation-builder
 
-This will create a `build` directory with an `index.html` file you can open in your browser:
+This will create a `build` directory containing an `index.html` file you can open in your browser:
 
     $ xdg-open build/index.html
