@@ -37,9 +37,9 @@ uploaders you need to ensure that these users have logged in to
 
 To access your store, you need to:
 
-* log in to the main snap store
+* log in to the [main snap store](https://myapps.developer.ubuntu.com)
 * click on the arrow next to your name at the top right of the screen
-* Click on "Stores you can access"
-* Click on your store name in the list, it should be under the header: "You can manage and change settings in the stores:"
+* click on the **Stores you can access** menu item
+* click on your store name in the list, it should be under the **You can manage and change settings in the stores** header
 
 This will take your to your [store settings](settings.md).
