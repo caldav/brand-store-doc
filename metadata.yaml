@@ -1,0 +1,43 @@
+site_title: Snaps brand store documentation
+site_logo_url: http://design.ubuntu.com/wp-content/uploads/logo-canonical_symbol-aubergine-hex-140x140.png
+
+navigation:
+
+  - title: Get started
+    location: index.md
+
+    children:
+
+      - title: Create a brand store
+        location: create.md
+
+      - title: Client setup
+        location: client-setup.md
+
+
+  - title: Manage
+    location: manage.md
+
+    children:
+
+      - title: Settings
+        location: settings.md
+
+      - title: Reviews
+        location: reviews.md
+
+        children:
+
+          - title: Reviewer tools
+            location: reviewer-tools.md
+
+  - title: Develop
+    location: develop.md
+
+    children:
+
+      - title: Upload snaps
+        location: upload-snaps.md
+
+  - title: Troubleshooting
+    location: troubleshooting.md
