@@ -23,8 +23,8 @@ There are three categories of settings:
 
 ## Automatic review checks
 
-...
+* "Manual approval": the first setting of this category enforces manual approval on all snaps, regardless of the results of the automated review.
 
-## Available store packages
+### Review types
 
-...
+The store allows you to be very granular in which automatic checks you can disable. Each of these is defined in the `click-reviewer-tools` [source code](http://bazaar.launchpad.net/~store-reviewers/click-reviewers-tools/trunk/files) and included test suite.

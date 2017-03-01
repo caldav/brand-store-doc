@@ -9,7 +9,7 @@ To create a brand store, you need to contact your Canonical sales representative
 
 A few things to know when asking for a store:
 
-* A brand store can be empty or inherit all snaps from another store. This is a choice you need to make at creation time.
+* A brand store can be empty or inherit some or all snaps from another store. This is a choice you need to make at creation time.
 * Stores can be open for all uploaders or restricted to a selected list
 * Stores can enforce manual reviews for each upload or rely on the automated review process (and apply further security policies as needed)
 
@@ -23,9 +23,9 @@ For this request to go through, your sales representative will ask you:
 * Does the store allow for paid snaps?
 * Does the store inherits snaps from any other stores?
 * Is the store open for uploads? If no, you will have to specify a list of existing store users (by email) to be granted upload rights
-* A list of existing store users (by email) to be granted review rights
+* A list of existing store users (specified by their email address) to be defined as store reviewers
 * A list of existing store users (by email) to be granted store admin rights
-* Will there be models/devices restricted to this store?
+* A list of existing store users (specified by their email address) to be defined as store admins
 
 ### Important
 
