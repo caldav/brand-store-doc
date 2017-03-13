@@ -45,9 +45,8 @@ There are three important checkpoints to consider when reviewing snaps: confinem
 * Interfaces provide snaps extra access to the system and the base declaration is written to reflect the scope of that access.
 * Aliases provide familiarity for snaps users by aliasing a snap command to another name. They are declared inside snaps by developers and it's up to reviewers to enable auto-aliasing of these commands upon install.
 
-### Confinement
+[//]: <> (### Confinement)
 
-...
 
 ### Interfaces
 
@@ -59,9 +58,8 @@ The base declaration general policy is as follow:
 
 You can get more details on the status and purpose of existing interfaces by going through the [snap interfaces list](https://snapcraft.io/docs/reference/interfaces).
 
-### Aliases
+[//]: <> (### Aliases)
 
-...
 
 ### Your own criteria
 

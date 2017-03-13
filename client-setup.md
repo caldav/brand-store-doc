@@ -5,7 +5,7 @@ table_of_contents: true
 
 # Client setup
 
-Snap clients can be connected to your store either by setting an environment variable consumed by the `snapd` service, or by being linked to a specific store through a [serial assertion](https://docs.staging.ubuntu.com/core/en/reference/assertions/serial).
+Snap clients can be connected to your store either by setting an environment variable consumed by the `snapd` service, or by being linked to a specific store through a [serial assertion](https://docs.ubuntu.com/core/en/reference/assertions/serial).
 
 ## With an env variable
 
