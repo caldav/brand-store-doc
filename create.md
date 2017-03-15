@@ -26,7 +26,6 @@ For this request to go through, your sales representative will ask you:
 * Does the store inherits snaps from any other stores?
 * Is the store open for uploads? If no, you will have to specify a list of existing store users (by email) to be granted upload rights
 * A list of existing store users (specified by their email address) to be defined as store reviewers
-* A list of existing store users (by email) to be granted store admin rights
 * A list of existing store users (specified by their email address) to be defined as store admins
 
 ### Important
