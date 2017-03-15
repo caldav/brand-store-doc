@@ -9,7 +9,7 @@ table_of_contents: true
 
 The Ubuntu snap store is enabled by default on Ubuntu Core images and classic systems running snapd. It allows developers to release free or paid apps for multiple architectures, on multiple release channels from daily builds to stable releases.
 
-To learn how to distribute snaps to your devices through the main snap store, heads on to this step-by-step guide:
+In this step-by-step guide, you will learn you how to distribute snaps to your devices through the main snap store:
 
 <p><a href="https://snapcraft.io/docs/build-snaps/publish"><button class="p-button--base">Distribute through the Ubuntu snap store</button></a></p>
 
